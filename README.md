@@ -18,7 +18,7 @@ Welcome to the Adventure project! This is an interactive, text-based adventure g
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/Yorit/adventure.git
+    git clone https://github.com/Yoritano/adventure.git
     cd adventure
     ```
 
